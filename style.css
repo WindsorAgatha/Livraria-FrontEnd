@@ -40,7 +40,6 @@ h1 {
 
 .link-menu {
     color: rgb(197, 194, 194);
-    text-decoration: none;
     width: fit-content;
 }
 
@@ -65,4 +64,8 @@ h1 {
     height: 50vh;
     padding: 50px;
     border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
 }
